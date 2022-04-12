@@ -13,6 +13,6 @@ parrot(pop):
 
 parrot(cluck):
 	mouse_click(0)
-	
+
 parrot(palate_click):
 	user.disable_parrot_modes()
